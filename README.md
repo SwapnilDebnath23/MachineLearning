@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Personal Projects
 
 This repository contains my personal projects on Machine Learning and data analysis.
 
@@ -8,10 +8,3 @@ This repository contains my personal projects on Machine Learning and data analy
 - **[Heart Disease Prediction](./ML/HeartDisease_p_2.ipynb)** — Classification model predicting heart disease risk using `heart.csv`.
 
 ---
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/SwapnilDebnath23/MachineLearning.git](https://github.com/SwapnilDebnath23/MachineLearning.git)
-   cd MachineLearning
